@@ -1,0 +1,17 @@
+.primarybutton{
+    display: inline-block;
+    text-align: center;
+    /* colors*/
+    background-color: var(--p-bgcolor-color);
+    color: var(--p-color-color);
+    /* border*/
+    border: none;
+    border-radius: 980px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: -.01em;
+    min-width: 23px;
+    padding: 4px 11px;
+}
+

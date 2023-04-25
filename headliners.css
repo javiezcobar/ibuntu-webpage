@@ -1,0 +1,32 @@
+.headline-wrapper{
+    box-sizing: border-box;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 100px 65px 40px;
+    text-align: left;
+    text-size-adjust: 100%;
+}
+
+.headline2{
+    font-size: 56px;
+    font-weight: 600;
+    letter-spacing: -0.28px;
+}
+
+.headline3{
+    font-size: 21px;
+    font-weight: 600;
+    letter-spacing: -0.231px;
+    text-align: left;
+}
+
+.titlecopy{
+    font-size: 19px;
+    font-weight: 600;
+    letter-spacing: 0.228px;
+    line-height: 27px;
+    margin-top: 5.7px;
+    max-width: 655px;
+    text-align: left;
+    text-size-adjust: 100%;
+}
